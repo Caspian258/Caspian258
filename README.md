@@ -29,12 +29,12 @@ Mechatronics Engineering student focused on bridging the gap between industrial 
 ### 📊 GitHub Stats (Powered by CondorCoders)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" alt="Caspian's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Caspian258&show_icons=true&theme=tokyonight&count_private=true" alt="Caspian's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caspian258&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caspian258&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
