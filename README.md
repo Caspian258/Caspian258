@@ -26,16 +26,21 @@ Mechatronics Engineering student focused on bridging the gap between industrial 
 
 ---
 
-### 📊 GitHub Stats (Powered by CondorCoders)
+<h3 align="center">📊 GitHub Metrics</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caspian258&show_icons=true&theme=tokyonight&count_private=true" alt="Caspian's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caspian258&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caspian258&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Caspian258&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="400px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caspian258&layout=compact&theme=tokyonight&hide_border=false&hide=javascript,html,css" width="400px" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caspian258&theme=tokyonight&hide_border=false" width="810px" />
+</div>
 
 ---
 
