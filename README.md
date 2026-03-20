@@ -1,10 +1,44 @@
-<h1 align="center">Caspian here</h1>
-<h3 align="center">Just a curious mind learning how to build things with code.</h3>
+# Hi there, I'm Caspian 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/thedevilandmeblues?igsh=n3pzzxb6cmv1njb0&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thedevilandmeblues?igsh=n3pzzxb6cmv1njb0&utm_source=qr" height="30" width="40" /></a>
+Mechatronics Engineering student focused on bridging the gap between industrial automation and cybersecurity. I specialize in developing smart systems while ensuring they are resilient against modern threats.
+
+### 🛠️ Professional Focus
+* **Industrial Cybersecurity:** Protecting ICS and SCADA systems.
+* **Robotics & Control:** Working with ESP32, PLC (S7-1200), and Raspberry Pi 5.
+* **DevOps & Security:** Managing environments in Fedora Linux and building secure lab infrastructures (KVM/Virt-Manager).
+
+---
+
+### 🚀 Current Projects & Learning
+- 🛡️ Studying for **CompTIA Security+** & Network+.
+- 🤖 Developing a **Smart Manufacturing System** (IoT + PLC + Computer Vision).
+- 🔐 Researching **Post-Quantum Cryptography** applications for microcontrollers.
+
+---
+
+### 🧰 Tech Stack
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++, Bash |
+| **Hardware/IoT** | ESP32, Siemens S7-1200 PLC, Raspberry Pi 5 |
+| **OS & Tools** | Fedora Linux, KVM/QEMU, Git, VSCode |
+| **Cybersecurity** | Metasploit, Nmap, Wireshark, Pentesting Labs |
+
+---
+
+### 📊 GitHub Stats (Powered by CondorCoders)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" alt="Caspian's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="150" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](TU_LINK_DE_LINKEDIN)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tu-correo@ejemplo.com)
